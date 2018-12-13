@@ -19,6 +19,9 @@
 }
 
 .header-title {
+    background-image: url(../img/main-img.jpg);
+    background-size: cover;
+    background-position: center;
     display: flex;
     justify-content: center;
     align-items: center;
